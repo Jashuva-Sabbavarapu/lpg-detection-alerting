@@ -10,4 +10,4 @@ the `MQ-6 LPG sensor` measures the LPG in the surroundings and outputs correspon
 
 A Custom Webpage is designed For monitoring the Live LPG value in the Graph and a Gauge. If the LPG level exceeds the Threshold value then it will Turn ON the buzzer and the user Must turn off it using the User button on the board or the `Terminate Button` on the webpage. We can set the threshold levels from the website. 
 
-![Alt Text](schematic/LPG-detection-alerting-schematic.pdf)
+[View Schematic](schematic/LPG-detection-alerting-schematic.pdf)
